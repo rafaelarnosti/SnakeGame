@@ -18,7 +18,7 @@ altura_janela = 400
 
 # Inicializa a janela do jogo
 janela = pygame.display.set_mode((largura_janela, altura_janela))
-pygame.display.set_caption('Jogo da Cobrinha')
+pygame.display.set_caption('Snake Game')
 
 # Definindo o relógio do jogo
 relogio = pygame.time.Clock()
